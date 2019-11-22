@@ -60,7 +60,7 @@ Follow the step to set up the lab environment for the Data Engineering lab and S
 
 ### Your Databricks Environment is ready now and you can proceed with the labs.
 1. **Open** the Databricks Workspace.</br>
-2. **Click** on the **Workspace** tab, open the folder named **Shared**, where you can find a Notebook. **Open** the notebook named **Lab-01_DataEngineering**.</br></br>
+2. **Click** on the **Workspace** tab, open the folder named **Shared**, where you can find a Notebook. **Open** the notebook named **Lab-DataEngineering**.</br></br>
 <kbd>![](images/data_engineering.png)</kbd></br></br>
 3. **Attach** the cluster in to this Notebook, if you haven't attached it yet.</br>
 **Note**: We have to install a Library in our cluster as **Machine Learning and Real-Time Stream Analytics** require some packages to import.
@@ -75,5 +75,5 @@ Following are the steps to install a library.
 
 4. Follow the instructions in the notebook to continue with the lab. To run the cells in the Notebook, **Click** on the **Play** button in the top right corner of that cell and then **Click** on **Run Cell**</br></br>
 <kbd>![](images/run_cell.jpg)</kbd></br>
-5. After completeing `Lab-01_DataEngineering`,  **Open** the Databricks Workspace. **Click** on the **Workspace** tab, open the folder named **Shared**, where you can find Notebooks. **Open** the notebook named **SparkSql & Performance Optimization**, attach the cluster and follow the instructions in the notebook.</br></br>
+5. After completeing `Lab-DataEngineering`,  **Open** the Databricks Workspace. **Click** on the **Workspace** tab, open the folder named **Shared**, where you can find Notebooks. **Open** the notebook named **SparkSql & Performance Optimization**, attach the cluster and follow the instructions in the notebook.</br></br>
 6. Follow the same for **Machine Learning and Real-Time stream analytics** ,**Azure Databricks Delta** and **Data Orchestration using Azure data Factory** notebooks.
