@@ -77,3 +77,5 @@ Following are the steps to install a library.
 <kbd>![](images/run_cell.jpg)</kbd></br>
 5. After completeing `Lab-DataEngineering`,  **Open** the Databricks Workspace. **Click** on the **Workspace** tab, open the folder named **Shared**, where you can find Notebooks. **Open** the notebook named **SparkSql & Performance Optimization**, attach the cluster and follow the instructions in the notebook.</br></br>
 6. Follow the same for **Machine Learning and Real-Time stream analytics** ,**Azure Databricks Delta** and **Data Orchestration using Azure data Factory** notebooks.
+
+`Note :` For **Real-Time stream analytics** and **Data orchestration using Azure Data factory** , First we need to have **Machine Learning** Tested. 
