@@ -9,7 +9,7 @@ This tutorial helps you understand how to use Azure Databricks Spark to prepare 
 
 # Getting Started
 
-Follow the step to set up the lab environment for the Data Engineering lab and Spark sql & Performance optimization.
+Follow the **Step 1** to set up the lab environment for the Data Engineering lab and Spark sql & Performance optimization.
 ## Step 1: Deploy Sql Data Warehouse.
 
 1. **Login** to [Azure portal](https://portal.azure.com) using the credentials provided in the environment details page. You will be having access to one resource group.</br>
