@@ -1,4 +1,4 @@
-# Azure Databricks - Delta
+# Azure Databricks - MLOps
 
 **Azure Databricks** is an Apache Spark-based big data analytics and machine learning framework optimized for the Microsoft Azure Cloud.
 Databricks is integrated with Azure to provide one-click setup, streamlined workflows, and an interactive workspace that enables collaboration between data scientists, data engineers, and business analysts.
@@ -13,7 +13,7 @@ This tutorial helps you understand how to use Azure Databricks Spark to prepare 
 2. Go to the Azure Databricks workspace, and then click on **Launch Workspace**.</br></br>
 <kbd>![](images/02_Launch.jpg)</kbd></br></br>
 3. You are now inside your Databricks workspace.</br></br>
-<kbd>![](images/delta_8.png)</kbd>
+<kbd>![](images/mlo.png)</kbd>
 
 
 ## Step 2: Attach the Notebook to your cluster.
